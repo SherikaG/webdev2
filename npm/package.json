@@ -1,0 +1,28 @@
+{
+  "name": "sherika",
+  "version": "1.0.2",
+  "description": "i dont know",
+  "main": "index.js",
+  "scripts": {
+    "start-npm": "how-to-npm",
+    "verify-npm": "how-to-npm verify",
+    "test": "node test.js",
+    "tests": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SherikaG",
+  "license": "ISC",
+  "dependencies": {
+    "how-to-npm": "^2.5.1",
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherikaG/webdev2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SherikaG/webdev2/issues"
+  },
+  "homepage": "https://github.com/SherikaG/webdev2#readme"
+}

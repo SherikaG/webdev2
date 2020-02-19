@@ -1,0 +1,17 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-learnyounode": "learnyounode",
+    "verify-learnyounode": "learnyounode verify http-json-api-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.1"
+  }
+}

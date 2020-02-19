@@ -1,0 +1,17 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "how-to-markdown",
+    "verify": "how-to-markdown verify gfm.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0"
+  }
+}
